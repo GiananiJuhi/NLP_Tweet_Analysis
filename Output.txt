@@ -1,0 +1,11 @@
+Top 10 places with highest number of tweets:-
+US: 29
+Florida: 18
+UK: 10
+America: 8
+United: 8
+States: 8
+India: 7
+Mayenne: 6
+China: 6
+Georgia: 5

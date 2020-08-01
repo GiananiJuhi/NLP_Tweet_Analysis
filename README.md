@@ -5,7 +5,7 @@
 <li> NER is performed for determining top 10 locations which might be affected the most due to Covid-19 pandemic.
 <li> Reference of the code is taken from <i>Source: https://algorithmia.com/blog/text-mining-tweets-named-entity-recognition</i>
 <li> For more details of the project, refer <i>Project Report.pdf</i> file.
-<li> For getting a gist of the project, refer <i>Project Demo.webm</i> file.
+<li> For getting a gist of the project, refer <i>NLP_Tweet_Analysis_Demo.mp4</i> file.
 </ul>
 
 ## Prerequisites
